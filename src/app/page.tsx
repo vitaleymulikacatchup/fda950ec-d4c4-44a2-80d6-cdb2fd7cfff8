@@ -46,7 +46,7 @@ export default function Home() {
             { text: "Browse Inventory", href: "inventory" },
             { text: "Schedule Test Drive", href: "contact" }
           ]}
-          imageSrc="https://images.pexels.com/photos/32727782/pexels-photo-32727782.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_346q1PwyWBLFgxn5R5gWYFVRO0Y/draw-a-cartoon-desert-landscape-in-16-9--1760693328774-a571399a.jpg"
           imageAlt="A stylish bronze Toyota Supra showcased indoors at a car event, highlighting its modern design and appeal."
           imagePosition="right"
         />
