@@ -38,8 +38,8 @@ export default function Home() {
 
       <div id="hero" data-section="hero">
         <HeroSplit
-          title="Find Your Perfect Vehicle Today"
-          description="Discover premium quality cars at competitive prices. From luxury sedans to family SUVs, we have the perfect vehicle waiting for you."
+          title="eqwijbfijebwfiewf"
+          description="qwfqwfqwfqwf"
           tag="Premium Dealership"
           tagIcon={Car}
           buttons={[
